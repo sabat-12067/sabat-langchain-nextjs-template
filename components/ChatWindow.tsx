@@ -6,7 +6,6 @@ import { useState } from "react";
 import type { FormEvent, ReactNode } from "react";
 import { toast } from "sonner";
 import { StickToBottom, useStickToBottomContext } from "use-stick-to-bottom";
-import Link from "next/link";
 
 import { ChatMessageBubble } from "@/components/ChatMessageBubble";
 import { IntermediateStep } from "./IntermediateStep";
