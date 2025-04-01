@@ -3,6 +3,7 @@
 import { useState, type FormEvent } from "react";
 import DEFAULT_RETRIEVAL_TEXT from "@/data/DefaultRetrievalText";
 import { Button } from "./ui/button";
+import Link from "next/link";
 import { Textarea } from "./ui/textarea";
 
 export function UploadDocumentsForm() {

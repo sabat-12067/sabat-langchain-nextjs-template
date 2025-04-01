@@ -1,5 +1,6 @@
 "use client";
 
+import { Button } from "./ui/button";
 import { cn } from "@/utils/cn";
 import { usePathname } from "next/navigation";
 import { ReactNode } from "react";

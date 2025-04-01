@@ -4,6 +4,8 @@ import * as React from "react";
 import { Drawer as DrawerPrimitive } from "vaul";
 
 import { cn } from "@/utils/cn";
+import Link from "next/link";
+
 
 const Drawer = ({
   shouldScaleBackground = true,
