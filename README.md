@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/e389e4e4-4fb9-4223-a4c2-dc002c8f20d3
 
 It's free-tier friendly too! Check out the [bundle size stats below](#-bundle-size).
 
-You can check out a hosted version of this repo here: https://langchain-nextjs-template.vercel.app/
+You can check out a hosted version of this repo.
 
 ## 🚀 Getting Started
 
