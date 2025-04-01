@@ -91,7 +91,7 @@ export default function RootLayout({
               <div className="flex justify-center">
                 <Button asChild variant="outline" size="default">
                   <a
-                    href="https://github.com/langchain-ai/langchain-nextjs-template"
+                    href="https://github.com/sabat-12067/sabat-langchain-nextjs-template"
                     target="_blank"
                   >
                     <GithubIcon className="size-3" />
