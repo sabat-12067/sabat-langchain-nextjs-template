@@ -122,4 +122,4 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Thank You!
 
-Thanks for reading! If you have any questions or comments, reach out to us on [greatdev12067@gmail.com].
+Thanks for reading! If you have any questions or comments, reach out to us with [greatdev12067@gmail.com].
