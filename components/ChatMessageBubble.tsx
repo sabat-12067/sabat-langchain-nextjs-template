@@ -1,6 +1,5 @@
 import { cn } from "@/utils/cn";
 import type { Message } from "ai/react";
-import Link from "next/link";
 
 export function ChatMessageBubble(props: {
   message: Message;
